@@ -1,13 +1,12 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+@import "./css/styles/bootstrap.min.css";
+@import "./css/styles/bootstrap-grid.min.css";
+@import "./css/styles/bootstrap-reboot.min.css";
+@import "./css/styles/animate.css";
+@import "./css/styles/owl.carousel.css";
+@import "./css/styles/owl.theme.css";
+@import "./css/styles/owl.transitions.css";
+@import "./css/styles/magnific-popup.css";
+@import "./css/styles/jquery.countdown.css";
+@import "./css/styles/style.css";
+@import "./css/colors/scheme-01.css";
+@import "./css/styles/coloring.css";
